@@ -1,0 +1,59 @@
+C:\Users\jaiga\OneDrive\Documents\Jg's House\Technology & Comminucation Ministry\App Devolopment\Calculator\Latest Files\Calculator\obj\Debug\Calculator.Add.resources
+C:\Users\jaiga\OneDrive\Documents\Jg's House\Technology & Comminucation Ministry\App Devolopment\Calculator\Latest Files\Calculator\obj\Debug\Calculator.Divide.resources
+C:\Users\jaiga\OneDrive\Documents\Jg's House\Technology & Comminucation Ministry\App Devolopment\Calculator\Latest Files\Calculator\obj\Debug\Calculator.Home.resources
+C:\Users\jaiga\OneDrive\Documents\Jg's House\Technology & Comminucation Ministry\App Devolopment\Calculator\Latest Files\Calculator\obj\Debug\Calculator.Multiply.resources
+C:\Users\jaiga\OneDrive\Documents\Jg's House\Technology & Comminucation Ministry\App Devolopment\Calculator\Latest Files\Calculator\obj\Debug\Calculator.Resources.resources
+C:\Users\jaiga\OneDrive\Documents\Jg's House\Technology & Comminucation Ministry\App Devolopment\Calculator\Latest Files\Calculator\obj\Debug\Calculator.SplashScreen.resources
+C:\Users\jaiga\OneDrive\Documents\Jg's House\Technology & Comminucation Ministry\App Devolopment\Calculator\Latest Files\Calculator\obj\Debug\Calculator.Subtract.resources
+C:\Users\jaiga\OneDrive\Documents\Jg's House\Technology & Comminucation Ministry\App Devolopment\Calculator\Latest Files\Calculator\obj\Debug\Calculator.vbproj.GenerateResource.cache
+C:\Users\jaiga\OneDrive\Documents\Jg's House\Technology & Comminucation Ministry\App Devolopment\Calculator\Latest Files\Calculator\obj\Debug\Calculator.vbproj.CoreCompileInputs.cache
+C:\Users\jaiga\OneDrive\Documents\Jg's House\Technology & Comminucation Ministry\App Devolopment\Calculator\Latest Files\Calculator\obj\Debug\Calculator.TrustInfo.xml
+C:\Users\jaiga\OneDrive\Documents\Jg's House\Technology & Comminucation Ministry\App Devolopment\Calculator\Latest Files\Calculator\obj\Debug\Calculator.exe
+C:\Users\jaiga\OneDrive\Documents\Jg's House\Technology & Comminucation Ministry\App Devolopment\Calculator\Latest Files\Calculator\obj\Debug\Calculator.xml
+C:\Users\jaiga\OneDrive\Documents\Jg's House\Technology & Comminucation Ministry\App Devolopment\Calculator\Latest Files\Calculator\obj\Debug\Calculator.pdb
+C:\Users\jaiga\OneDrive\Documents\Jg's House\Technology & Comminucation Ministry\App Devolopment\Calculator\Latest Files\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\jaiga\OneDrive\Documents\Jg's House\Technology & Comminucation Ministry\App Devolopment\Calculator\Latest Files\Calculator\bin\Debug\Calculator.exe.manifest
+C:\Users\jaiga\OneDrive\Documents\Jg's House\Technology & Comminucation Ministry\App Devolopment\Calculator\Latest Files\Calculator\bin\Debug\Calculator.application
+C:\Users\jaiga\OneDrive\Documents\Jg's House\Technology & Comminucation Ministry\App Devolopment\Calculator\Latest Files\Calculator\bin\Debug\Calculator.exe
+C:\Users\jaiga\OneDrive\Documents\Jg's House\Technology & Comminucation Ministry\App Devolopment\Calculator\Latest Files\Calculator\bin\Debug\Calculator.pdb
+C:\Users\jaiga\OneDrive\Documents\Jg's House\Technology & Comminucation Ministry\App Devolopment\Calculator\Latest Files\Calculator\bin\Debug\Calculator.xml
+C:\Users\jaiga\OneDrive\Documents\Jg's House\Technology & Comminucation Ministry\App Devolopment\Calculator\Latest Files\Calculator\obj\Debug\Calculator.exe.manifest
+C:\Users\jaiga\OneDrive\Documents\Jg's House\Technology & Comminucation Ministry\App Devolopment\Calculator\Latest Files\Calculator\obj\Debug\Calculator.application
+C:\Users\jaiga\OneDrive\Documents\Jg's House\Technology & Comminucation Ministry\App Devolopment\Calculator\Latest Files\Calculator\obj\Debug\Calculator.vbprojAssemblyReference.cache
+C:\Users\jaiga\OneDrive\Documents\Jg's House\Technology & Comminucation Ministry\App Devolopment\Calculator\Latest Files\Calculator\bin\Debug\System.Runtime.WindowsRuntime.dll
+C:\Users\jaiga\OneDrive\Documents\Jg's House\Technology & Comminucation Ministry\App Devolopment\Calculator\Latest Files\Calculator\bin\Debug\System.Runtime.WindowsRuntime.UI.Xaml.dll
+C:\Users\jaiga\OneDrive\Documents\Jg's House\Technology & Comminucation Ministry\App Devolopment\Calculator\Latest Files\Calculator\obj\Debug\Calculator.vbproj.CopyComplete
+C:\Users\jaiga\OneDrive\Documents\Jg's House\Technology & Comminucation Ministry\App Devolopment\Calculator\Latest Files\Calculator\obj\Debug\Calculator.Restart.resources
+C:\Users\jaiga\OneDrive\Documents\Jg's House\Technology & Comminucation Ministry\App Devolopment\Calculator\Latest Files\Calculator\obj\Debug\Calculator.Settings.resources
+C:\Users\jaiga\OneDrive\Documents\Jg's House\Technology & Comminucation Ministry\App Devolopment\Calculator\Latest Files\Calculator\obj\Debug\Calculator.Reset.resources
+C:\Users\jaiga\OneDrive\Documents\Jg's House\Technology & Comminucation Ministry\App Devolopment\Calculator\Latest Files\Calculator\obj\Debug\Calculator.Reset_Progress.resources
+C:\Users\jaiga\OneDrive\Documents\Jg's House\Technology & Comminucation Ministry\App Devolopment\Calculator\Latest Files\Calculator\obj\Debug\Calculator.Advanced.resources
+C:\Users\jaiga\Desktop\Calculator\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\jaiga\Desktop\Calculator\Calculator\bin\Debug\Calculator.exe.manifest
+C:\Users\jaiga\Desktop\Calculator\Calculator\bin\Debug\Calculator.application
+C:\Users\jaiga\Desktop\Calculator\Calculator\bin\Debug\Calculator.exe
+C:\Users\jaiga\Desktop\Calculator\Calculator\bin\Debug\Calculator.pdb
+C:\Users\jaiga\Desktop\Calculator\Calculator\bin\Debug\Calculator.xml
+C:\Users\jaiga\Desktop\Calculator\Calculator\bin\Debug\System.Runtime.WindowsRuntime.dll
+C:\Users\jaiga\Desktop\Calculator\Calculator\bin\Debug\System.Runtime.WindowsRuntime.UI.Xaml.dll
+C:\Users\jaiga\Desktop\Calculator\Calculator\obj\Debug\Calculator.vbproj.AssemblyReference.cache
+C:\Users\jaiga\Desktop\Calculator\Calculator\obj\Debug\Calculator.vbproj.SuggestedBindingRedirects.cache
+C:\Users\jaiga\Desktop\Calculator\Calculator\obj\Debug\Calculator.Add.resources
+C:\Users\jaiga\Desktop\Calculator\Calculator\obj\Debug\Calculator.Advanced.resources
+C:\Users\jaiga\Desktop\Calculator\Calculator\obj\Debug\Calculator.Divide.resources
+C:\Users\jaiga\Desktop\Calculator\Calculator\obj\Debug\Calculator.Home.resources
+C:\Users\jaiga\Desktop\Calculator\Calculator\obj\Debug\Calculator.Multiply.resources
+C:\Users\jaiga\Desktop\Calculator\Calculator\obj\Debug\Calculator.Resources.resources
+C:\Users\jaiga\Desktop\Calculator\Calculator\obj\Debug\Calculator.Restart.resources
+C:\Users\jaiga\Desktop\Calculator\Calculator\obj\Debug\Calculator.Settings.resources
+C:\Users\jaiga\Desktop\Calculator\Calculator\obj\Debug\Calculator.SplashScreen.resources
+C:\Users\jaiga\Desktop\Calculator\Calculator\obj\Debug\Calculator.Subtract.resources
+C:\Users\jaiga\Desktop\Calculator\Calculator\obj\Debug\Calculator.vbproj.GenerateResource.cache
+C:\Users\jaiga\Desktop\Calculator\Calculator\obj\Debug\Calculator.vbproj.CoreCompileInputs.cache
+C:\Users\jaiga\Desktop\Calculator\Calculator\obj\Debug\Calculator.TrustInfo.xml
+C:\Users\jaiga\Desktop\Calculator\Calculator\obj\Debug\Calculator.exe.manifest
+C:\Users\jaiga\Desktop\Calculator\Calculator\obj\Debug\Calculator.application
+C:\Users\jaiga\Desktop\Calculator\Calculator\obj\Debug\Calculator.vbproj.CopyComplete
+C:\Users\jaiga\Desktop\Calculator\Calculator\obj\Debug\Calculator.exe
+C:\Users\jaiga\Desktop\Calculator\Calculator\obj\Debug\Calculator.xml
+C:\Users\jaiga\Desktop\Calculator\Calculator\obj\Debug\Calculator.pdb
